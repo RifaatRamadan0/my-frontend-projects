@@ -47,4 +47,4 @@ I am proficient in the following technologies:
 - Responsive Design Techniques  
 
 ## Contact  
-Feel free to reach out to me at rifaatramadan0@gmail.com or connect with me on [LinkedIn](link-to-linkedin-profile).
+Feel free to reach out to me at rifaatramadan0@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/rifaat-ramadan-2b7033243/).
