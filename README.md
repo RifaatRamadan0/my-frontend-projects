@@ -5,7 +5,7 @@ Welcome to my frontend development portfolio! Here you'll find a collection of m
 ## Projects  
 
 ### 1. Portfolio Website  
-- **Description**: My personal responsive portfolio site that showcases my projects and skills.  
+- **Description**: A responsive personal portfolio site that showcases my projects and skills.  
 - **Technologies Used**: HTML, CSS, JavaScript.  
 - **Repository**: [Portfolio Repo](link-to-repo)  
 - **Live Demo**: [My Portfolio](link-to-your-portfolio)
