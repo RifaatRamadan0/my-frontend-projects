@@ -7,7 +7,7 @@ Welcome to my frontend development portfolio! Here you'll find a collection of m
 ### 1. Portfolio Website  
 - **Description**: A responsive personal portfolio site that showcases my projects and skills.  
 - **Technologies Used**: HTML, CSS, JavaScript.  
-- **Repository**: [Portfolio Repo]([link-to-repo](https://github.com/RifaatRamadan0/RifaatRamadan-portfolio?tab=readme-ov-file))  
+- **Repository**: [Portfolio Repo](https://github.com/RifaatRamadan0/RifaatRamadan-portfolio?tab=readme-ov-file) 
 - **Live Demo**: [My Portfolio](https://test50.w3spaces.com/index.html)
 
 ### 2. Memory Card Game  
