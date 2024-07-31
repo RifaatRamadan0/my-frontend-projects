@@ -13,8 +13,8 @@ Welcome to my frontend development portfolio! Here you'll find a collection of m
 ### 2. Memory Card Game  
 - **Description**: A fun responsive memory card game where players match pairs of cards.  
 - **Technologies Used**: HTML, CSS, JavaScript.  
-- **Repository**: [Memory Card Game Repo](link-to-repo)  
-- **Live Demo**: [Memory Card Game Demo](link-to-demo)
+- **Repository**: [Memory Card Game Repo](https://github.com/RifaatRamadan0/MemoryCardGame/blob/main/README.md)
+- **Live Demo**: [Memory Card Game Demo](https://rifaat12ramadan.github.io/)
 
 ### 3. Password Generator App  
 - **Description**: A versatile responsive password generator app designed to enhance online security by creating strong by offering various customizable features random passwords.
