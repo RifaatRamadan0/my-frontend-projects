@@ -22,6 +22,12 @@ Welcome to my frontend development portfolio! Here you'll find a collection of m
 - **Repository**: [Weather App Repo](link-to-repo)  
 - **Live Demo**: [Weather App Demo](link-to-demo)
 
+### 4. TicTacToe Game  
+- **Description**: A TicTacToe Game allows users play against a friend.
+- **Technologies Used**: HTML, CSS, JavaScript.  
+- **Repository**: [Movie Info App Repo](link-to-repo)  
+- **Live Demo**: [Movie Info App Demo](link-to-demo)
+
 ### 4. Weather App  
 - **Description**: A web application that fetches and displays current weather information for any location using a weather API.  
 - **Technologies Used**: HTML, CSS, JavaScript, OpenWeatherMap API.  
