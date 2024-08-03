@@ -19,14 +19,14 @@ Welcome to my frontend development portfolio! Here you'll find a collection of m
 ### 3. Password Generator App  
 - **Description**: A versatile responsive password generator app designed to enhance online security by creating strong by offering various customizable features random passwords.
 - **Technologies Used**: HTML, CSS, JavaScript.
-- **Repository**: [Weather App Repo](link-to-repo)  
-- **Live Demo**: [Weather App Demo](link-to-demo)
+- **Repository**: [Password Generator App](link-to-repo)  
+- **Live Demo**: [Password Generator App](link-to-demo)
 
 ### 4. TicTacToe Game  
 - **Description**: A TicTacToe Game allows users play against a friend.
 - **Technologies Used**: HTML, CSS, JavaScript.  
-- **Repository**: [Movie Info App Repo](link-to-repo)  
-- **Live Demo**: [Movie Info App Demo](link-to-demo)
+- **Repository**: [TicTacToe Game Repo](link-to-repo)  
+- **Live Demo**: [TicTacToe Game Demo](link-to-demo)
 
 ### 4. Weather App  
 - **Description**: A web application that fetches and displays current weather information for any location using a weather API.  
@@ -37,8 +37,8 @@ Welcome to my frontend development portfolio! Here you'll find a collection of m
 ### 5. Shoes Store
 - **Description**: A static shoe store website featuring smooth transitions and hover effects, built with HTML and CSS to enhance the visual experience.
 - **Technologies Used**: HTML, CSS.
-- **Repository**: [Weather App Repo](link-to-repo)  
-- **Live Demo**: [Weather App Demo](link-to-demo)  
+- **Repository**: [Shoes App Repo](link-to-repo)  
+- **Live Demo**: [Shoes App Demo](link-to-demo)  
 
 ### 6. Movie Info App  
 - **Description**: An application that allows users to search for movies and view detailed information about them.  
