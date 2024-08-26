@@ -19,8 +19,8 @@ Welcome to my frontend development portfolio! Here you'll find a collection of m
 ### 3. Password Generator App  
 - **Description**: A versatile responsive password generator app designed to enhance online security by creating strong by offering various customizable features random passwords.
 - **Technologies Used**: HTML, CSS, JavaScript.
-- **Repository**: [Password Generator App](link-to-repo)  
-- **Live Demo**: [Password Generator App](link-to-demo)
+- **Repository**: [Password Generator App](https://github.com/RifaatRamadan0/Password-Generator)
+- **Live Demo**: [Password Generator App](https://rifaatramadan0.github.io/Password-Generator/)
 
 ### 4. TicTacToe Game  
 - **Description**: A TicTacToe Game allows users play against a friend.
