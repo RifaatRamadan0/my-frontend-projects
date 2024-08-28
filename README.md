@@ -25,8 +25,8 @@ Welcome to my front-end development portfolio! Here you'll find a collection of 
 ### 4. TicTacToe Game  
 - **Description**: A TicTacToe Game allows users to play against a friend.
 - **Technologies Used**: HTML, CSS, JavaScript.  
-- **Repository**: [TicTacToe Game Repo](link-to-repo)  
-- **Live Demo**: [TicTacToe Game Demo](link-to-demo)
+- **Repository**: [TicTacToe Game Repo](https://github.com/RifaatRamadan0/Tic-Tac-Toe?tab=readme-ov-file)  
+- **Live Demo**: [TicTacToe Game Demo](https://rifaatramadan0.github.io/Tic-Tac-Toe/)
 
 ### 4. Weather App  
 - **Description**: A web application that fetches and displays current weather information for any location using a weather API.  
