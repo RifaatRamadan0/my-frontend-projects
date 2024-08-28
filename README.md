@@ -1,6 +1,6 @@
 # My Frontend Development Portfolio  
 
-Welcome to my frontend development portfolio! Here you'll find a collection of my projects showcasing my skills in HTML, CSS, JavaScript.  
+Welcome to my front-end development portfolio! Here you'll find a collection of my projects showcasing my skills in HTML, CSS, and JavaScript.  
 
 ## Projects  
 
@@ -17,13 +17,13 @@ Welcome to my frontend development portfolio! Here you'll find a collection of m
 - **Live Demo**: [Memory Card Game Demo](https://rifaat12ramadan.github.io/)
 
 ### 3. Password Generator App  
-- **Description**: A versatile responsive password generator app designed to enhance online security by creating strong by offering various customizable features random passwords.
+- **Description**: A versatile responsive password generator app designed to enhance online security by offering various customizable features random passwords.
 - **Technologies Used**: HTML, CSS, JavaScript.
 - **Repository**: [Password Generator App](https://github.com/RifaatRamadan0/Password-Generator)
 - **Live Demo**: [Password Generator App](https://rifaatramadan0.github.io/Password-Generator/)
 
 ### 4. TicTacToe Game  
-- **Description**: A TicTacToe Game allows users play against a friend.
+- **Description**: A TicTacToe Game allows users to play against a friend.
 - **Technologies Used**: HTML, CSS, JavaScript.  
 - **Repository**: [TicTacToe Game Repo](link-to-repo)  
 - **Live Demo**: [TicTacToe Game Demo](link-to-demo)
