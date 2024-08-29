@@ -28,31 +28,31 @@ Welcome to my front-end development portfolio! Here you'll find a collection of 
 - **Repository**: [TicTacToe Game Repo](https://github.com/RifaatRamadan0/Tic-Tac-Toe?tab=readme-ov-file)  
 - **Live Demo**: [TicTacToe Game Demo](https://rifaatramadan0.github.io/Tic-Tac-Toe/)
 
-### 4. Weather App  
+### 5. Weather App  
 - **Description**: A web application that fetches and displays current weather information for any location using a weather API.  
 - **Technologies Used**: HTML, CSS, JavaScript, OpenWeatherMap API.  
 - **Repository**: [Weather App Repo](link-to-repo)  
 - **Live Demo**: [Weather App Demo](link-to-demo)
   
-### 5. Shoes Store
+### 6. Shoes Store
 - **Description**: A static shoe store website featuring smooth transitions and hover effects, built with HTML and CSS to enhance the visual experience.
 - **Technologies Used**: HTML, CSS.
 - **Repository**: [Shoes App Repo](link-to-repo)  
 - **Live Demo**: [Shoes App Demo](link-to-demo)  
 
-### 6. Movie Info App  
+### 7. Movie Info App  
 - **Description**: An application that allows users to search for movies and view detailed information about them.  
 - **Technologies Used**: HTML, CSS, JavaScript, OMDb API.  
 - **Repository**: [Movie Info App Repo](link-to-repo)  
 - **Live Demo**: [Movie Info App Demo](link-to-demo)
   
-### 7. Twitter Clone  
+### 8. Twitter Clone  
 - **Description**: A simplified clone of Twitter that allows users to post messages and see a feed of posts.  
 - **Technologies Used**: HTML, CSS.  
 - **Repository**: [Twitter Clone Repo](link-to-repo)  
 - **Live Demo**: [Twitter Clone Demo](link-to-demo)  
 
-### 8. YouTube Clone  
+### 9. YouTube Clone  
 - **Description**: A basic version of YouTube that lets users search and view videos.  
 - **Technologies Used**: HTML, CSS.  
 - **Repository**: [YouTube Clone Repo](link-to-repo)  
