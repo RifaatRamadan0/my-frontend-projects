@@ -31,7 +31,7 @@ Welcome to my front-end development portfolio! Here you'll find a collection of 
 ### 5. Weather App  
 - **Description**: A web application that fetches and displays current weather information for any location using a weather API.  
 - **Technologies Used**: HTML, CSS, JavaScript, OpenWeatherMap API.  
-- **Repository**: [Weather App Repo](link-to-repo)  
+- **Repository**: [Weather App Repo](https://github.com/RifaatRamadan0/Weather-App)  
 - **Live Demo**: [Weather App Demo](link-to-demo)
   
 ### 6. Shoes Store
