@@ -37,26 +37,17 @@ Welcome to my front-end development portfolio! Here you'll find a collection of 
 ### 6. Shoes Store
 - **Description**: A static shoe store website featuring smooth transitions and hover effects, built with HTML and CSS to enhance the visual experience.
 - **Technologies Used**: HTML, CSS.
-- **Repository**: [Shoes App Repo](link-to-repo)  
-- **Live Demo**: [Shoes App Demo](link-to-demo)  
 
 ### 7. Movie Info App  
 - **Description**: An application that allows users to search for movies and view detailed information about them.  
 - **Technologies Used**: HTML, CSS, JavaScript, OMDb API.  
-- **Repository**: [Movie Info App Repo](link-to-repo)  
-- **Live Demo**: [Movie Info App Demo](link-to-demo)
   
 ### 8. Twitter Clone  
 - **Description**: A simplified clone of Twitter that allows users to post messages and see a feed of posts.  
 - **Technologies Used**: HTML, CSS.  
-- **Repository**: [Twitter Clone Repo](link-to-repo)  
-- **Live Demo**: [Twitter Clone Demo](link-to-demo)  
-
 ### 9. YouTube Clone  
 - **Description**: A basic version of YouTube that lets users search and view videos.  
 - **Technologies Used**: HTML, CSS.  
-- **Repository**: [YouTube Clone Repo](link-to-repo)  
-- **Live Demo**: [YouTube Clone Demo](link-to-demo)  
 
 ## Technologies Used  
 I am proficient in the following technologies:  
